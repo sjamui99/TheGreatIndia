@@ -1,0 +1,56 @@
+
+.navbar li{
+    float:left;
+    list-style: none;
+    margin-left: 10px;
+    
+    
+}
+
+.navbar {
+  margin-left:25%;
+  overflow:auto;
+  
+
+}
+
+.header{
+    text-align: center;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 40px 0;
+  }
+
+h2{
+    background:green;
+    padding:10px;
+    text-align: center;
+    
+}
+
+#home img{
+    width:600px;
+    height:400px;
+}
+
+tr{
+   text-align: center;
+   font-weight: bold;
+}
+
+ img{
+    width:280px;
+    height:200px;
+}
+
+ img{
+    width:280px;
+    height:200px;
+}
+
+ img{
+    width:280px;
+    height:200px;
+}
